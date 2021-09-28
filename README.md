@@ -28,6 +28,9 @@ $ sudo apt install ffmpeg   # mosnet dependency
 - Japanese
     - jsv_ver1
 
+## Datasets
+- (https://github.com/abeersaqib/VCC2020-database)
+
 ### Conversion samples
 You can access several converted audio samples of VCC 2018 dataset in the [URL](https://k2kobayashi.github.io/crankSamples/).
 - [vcc2020v1](https://drive.google.com/file/d/1uInvCwggpBYmpplYxuIOidvJkPmav8kE/view?usp=sharing)
